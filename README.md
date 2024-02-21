@@ -30,4 +30,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses selenium
+- uses os module

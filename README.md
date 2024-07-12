@@ -32,4 +32,4 @@ This Repo consists of the following files :
 <br>
 
 
-- supports mac
+-  created by prateek
